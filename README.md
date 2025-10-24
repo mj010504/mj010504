@@ -9,10 +9,6 @@
 
   <br><br>
 
-[최민준](https://www.notion.so/108a0c9233da80578ca6e2313ea13fe3?source=copy_link)
-
-  <br><br>
-
   <h2>🏅 Stats</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=mj010504&bg_color=00000000&title_color=000000&text_color=000000" />
